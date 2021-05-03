@@ -5,30 +5,30 @@
 ---
 ## Profitability, etc.
 
-##### Gross Profit Margin
+#### Gross Profit Margin
 
-##### Operating Expenses
+#### Operating Expenses
 
-##### Interest Expenses
+#### Interest Expenses
 
-##### Net Income
+#### Net Income
 
-##### Diluted EPS
+#### Diluted EPS
 
-##### Cash Flow
+#### Cash Flow
 
-##### Return on Equity
+#### Return on Equity
 
 ---
 ## Solvency
 
-##### Cash
+#### Cash
 
-##### Debt
+#### Debt
 
-##### Current Ratio
+#### Current Ratio
 
-##### Debt to Equity
+#### Debt to Equity
 
 ---
 ## Additional Factors
