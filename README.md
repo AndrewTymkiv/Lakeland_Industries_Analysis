@@ -43,6 +43,12 @@ Looking at Lakeland's Balance Sheet, there a few indicators that reveal solid li
 - Lakeland's Debt to Equity has remained just over 0.10 for the past few years and was calculated at 0.138 for 2020. 
 ---
 ## Summary
+As displayed many times, Lakeland's revenues and earnings saw great increases in 2020 due to increased demand during the pandemic. This is the main reason for the company's improved financials and increased stock price. Now that we are seeing the light at the end of the tunnel with the COVID-19 pandemic, it is worth questioning whether or not the demand for Lakeland's protective equipment will decrease or remain as is. Even with vaccinations and immunity being built, most healthcare workers will likely still likely be required to take caution and wear the protective gear to prevent any possibility of spreading the disease. However, the quantities in which these facilities purchase the products may still decrease. If the demand falls, Lakeland may not achieve the same revenues they did in 2020.
+
+With the world returning to normal, it might be appropriate to look back at Lakeland's financials prior to the COVID-19 pandemic to get a sense of what to expect in a post-COVID world. Although Lakeland had been maintaing decent revenues and Gross Profit Margins, their EPS and Net Income were not so successful before 2020. But with healthcare facilities maintaining caution for the foreseeable future, there is reason to speculate that the decrease in Lakeland's revenues wouldn't fall off too drastically from 2020's numbers. 
+
+On the other hand, Lakeland was still displaying signs of good liquidity even before the pandemic hit. They had little to no debt for the last few years of the decade and maintained a healthy Current Ratio. Lakeland's stock price has fallen quite a bit from February's high of nearly $48 to $26 at the time of this analysis. It is unlikely that the price will reach the $40 range again anytime soon, but with volatility from the pandemic slowing down and the company's financial health, there is potential for the price to balance out soon and achieve steady growth. 
+
 
 
 (All data as of May 2021)
