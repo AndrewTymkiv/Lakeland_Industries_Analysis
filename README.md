@@ -47,4 +47,5 @@ Looking at Lakeland's Balance Sheet, there a few indicators that reveal solid li
 ## Summary
 
 (All data as of May 2021)
+
 (Fiscal year reportings every January)
