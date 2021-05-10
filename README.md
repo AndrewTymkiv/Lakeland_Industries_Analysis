@@ -1,6 +1,7 @@
 # Lakeland Industries Analysis (NASDAQ: LAKE)
 ---
 ## Overview
+Lakeland Industries provides safety and protective equipment and clothing, mainly for workplaces that deal with chemicals or are in danger of contracting any illnesses. The demand for Lakeland's products has obviously soared during the COVID-19 pandemic as hospitals and other healthcare facilities require workers to be equipped with protective gear to prevent the spread of the disease. Below, I will highlight some sections of Lakeland's financial statements, many of which saw great success in 2020 due to the increased demand for the company's products.
 
 ---
 ## Profitability, etc.
@@ -41,10 +42,8 @@ Looking at Lakeland's Balance Sheet, there a few indicators that reveal solid li
 #### Debt to Equity
 - Lakeland's Debt to Equity has remained just over 0.10 for the past few years and was calculated at 0.138 for 2020. 
 ---
-## Additional Factors
-
----
 ## Summary
+
 
 (All data as of May 2021)
 
