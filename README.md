@@ -42,6 +42,9 @@ Looking at Lakeland's Balance Sheet, there a few indicators that reveal solid li
 #### Debt to Equity
 - Lakeland's Debt to Equity has remained just over 0.10 for the past few years and was calculated at 0.138 for 2020. 
 ---
+## Additional Factors
+
+---
 ## Summary
 As displayed many times, Lakeland's revenues and earnings saw great increases in 2020 due to increased demand during the pandemic. This is the main reason for the company's improved financials and increased stock price. Now that we are seeing the light at the end of the tunnel with the COVID-19 pandemic, it is worth questioning whether or not the demand for Lakeland's protective equipment will decrease or remain as is. Even with vaccinations and immunity being built, most healthcare workers will likely still likely be required to take caution and wear the protective gear to prevent any possibility of spreading the disease. However, the quantities in which these facilities purchase the products may still decrease. If the demand falls, Lakeland may not achieve the same revenues they did in 2020.
 
